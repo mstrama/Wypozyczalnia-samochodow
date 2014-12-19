@@ -1,3 +1,3 @@
 moje
 ====
-oje pierwsze repository
+moje pierwsze repository
