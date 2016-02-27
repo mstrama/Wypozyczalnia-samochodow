@@ -1,0 +1,120 @@
+body {
+	background-image: url("https://v-ie.uek.krakow.pl/~s176968/dark1.jpg");
+	background-size: cover;
+	margin-top: 0;
+	padding: 0;
+}
+
+#container1 {
+position: relative;
+min-height: 180px;
+max-width: 1000 px;
+min-width: 750 px;
+margin: auto;
+}
+
+#title {
+min-height: 180px;
+margin: 3 300 3 3;
+}
+
+div#login {
+position: absolute;
+top: 0;
+bottom: 0;
+min-height: 180 px;
+right: 0;
+color: white;
+width: 300;
+}
+
+#container2 {
+position: relative;
+min-height: 500px;
+max-width: 1000 px;
+min-width: 750 px;
+margin: auto;
+}
+
+div#main {
+min-height: 500px;
+margin: 3 300 3 3;
+color: white;
+}
+
+div#reklama {
+position: absolute;
+top: 20;
+bottom: 0;
+min-height: 500 px;
+right: 0;
+color: white;
+width: 300;
+}
+
+div#stopka {
+width: 99%;
+text-align: centre;
+max-height: 20px;
+color: white;
+clear: both;
+font-size: 10;
+}
+
+ul#menu {
+    padding: 0 0 0 40;
+	margin-top: -50;
+}
+
+ul#menu li {
+    display: inline;
+	opacity: 0.80;
+}
+
+ul#menu li a {
+    background-color: #003333;
+    color: black;
+    padding: 15px 30px;
+    text-decoration: none;
+	font-family: garamond;
+	font-weight: bold;
+    border-radius: 4px 4px 4 4;
+}
+
+ul#menu li a:hover {
+    background-color: #006666;
+}
+
+ul#menu li a:active {
+    background-color: #006666;
+}
+
+div#two {
+    max-width: 1000px;
+    min-height: 450px;
+    border-style: solid; 
+	background: #0E0E0E;
+	border: 3px solid white;
+	opacity:0.85;
+	margin-left: 15;
+	margin-left: 15;
+	}
+
+td#none {
+	border-top: 0;
+	border-right: 0;
+	border-left: 0;
+	border-bottom: 0;
+	font-weight: bold;
+	text-shadow: 3 3 5 white;
+	}
+	
+fieldset { border:2px solid white; color:grey; padding: 0.08em 0.5em 0.5em; margin-left: 20; margin-right: 50; font-size:80%; }
+
+legend {
+  padding: 0.2em 0.55em;
+  border:2px solid red;
+  color:grey;
+  font-size:90%;
+  text-align:center;
+  }
