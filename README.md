@@ -1,3 +1,3 @@
-moje
+
 ====
-moje pierwsze repository
+wypożyczalnia samochodów
